@@ -6,7 +6,11 @@ It's easy to do a pull request just follow this steps.
 
 -----
    name:Your_name
+   
    your first participation?:  yes or no
+   
    Your goal: i want to.....
+   
    country: you_country_name
+ 
  ------
